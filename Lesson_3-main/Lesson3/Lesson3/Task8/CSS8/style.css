@@ -1,0 +1,24 @@
+*{margin:0;}
+header{
+    background-color:green;
+    width: 600px;
+    height: 10px;
+}
+h1{
+    text-align: center;
+}
+h3{
+    margin left: 80px;
+    font: size 12px;
+    margin-top: 10px;
+
+}
+#find{
+    margin-left: 80px;
+}
+a{
+    color: greenyellow;
+}
+#text{
+    margin left: 80px;
+}

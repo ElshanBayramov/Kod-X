@@ -1,0 +1,33 @@
+*{
+    margin:0;}
+#H1{
+    text-align: center;
+    padding: 10px;
+    font-size: large;
+
+    color:white;
+    background-color:aqua;
+    
+}
+div{
+    display: flex;
+}
+h2{
+    margin-left: 100px;
+    
+}
+p{
+     margin-left: 100px;
+}
+
+a{
+    text-decoration: none;
+    color:red;
+    display: block;
+}
+footer{
+    background-color :gray;
+    text-align: right;
+    color:white;
+    padding: 0px;
+}

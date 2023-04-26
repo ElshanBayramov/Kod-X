@@ -1,0 +1,25 @@
+
+#H1{
+    color:purple;
+}
+.highlight-word-color1{
+    color :rgb(245, 7, 7);
+}
+#H3{
+    color:rgb(35, 168, 35);
+}
+.highlight-word-color2{
+    color :bisque;
+}
+#H4{
+    color:green; 
+}
+.highlight-word-color3{
+    color :rgb(245, 7, 7);
+}
+.highlight-word-color4{
+    background-color : yellow;
+}
+.highlight-word-color5{
+     color : bisque;
+}

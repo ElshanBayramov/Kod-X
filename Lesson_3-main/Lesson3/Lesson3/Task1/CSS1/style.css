@@ -1,0 +1,76 @@
+body{
+    background-color: #785408;
+}
+div{
+    background-color: rgb(158, 122, 3);
+    border:2px solid wheat;
+    margin: 1px;
+    
+}
+#logo{
+    text-align: center;
+    color: white;
+    background-color: rgb(192, 160, 18);
+    padding: 30px;
+    margin:40px;
+}
+#home{
+    color: whitesmoke;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: rgb(192, 160, 18);
+    padding: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+.basqa{
+    background-color:whitesmoke;
+    margin: 10px;
+    text-align: center;
+    color: rgb(131, 96, 7);
+    font-family: sans-serif;
+    font-weight: bolder;
+  
+    
+    
+
+
+}
+#other{
+
+    width: 150px;
+    height: 150px;
+    color: white;
+    background-color: rgb(121, 94, 3);
+    font-style: normal;
+    font-weight:bold;
+    border-color: rgb(165, 151, 42);
+    text-align:center;
+    display:inline-flex;
+  
+   
+
+}
+.xett{
+    border-bottom: dashed;
+    color: black;
+    margin: 15px;
+}
+h2{
+    text-align: left;
+    font-size: 20px;
+    font-weight: bolder;
+    
+}
+#text{
+    color:black ;
+    font-weight: lighter;
+    font-style: normal;
+    font-display:initial;
+
+}
+a{
+    text-decoration: none;
+    margin:20px;
+    color: white;
+    font-weight: bold;
+}

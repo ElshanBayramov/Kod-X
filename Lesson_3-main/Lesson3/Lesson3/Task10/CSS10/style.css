@@ -1,0 +1,45 @@
+#margin{
+    width: 500px;
+    height: 300px;
+    border: 2px dashed rgb(174, 84, 99);
+    text-align: center;
+    padding: 20px;
+}
+#border{
+    width: 400px;
+    height: 250px;
+    border: 5px solid rgb(174, 84, 99);
+    margin-left: 5px;
+    margin-top: -30px;
+    padding: 10px;
+}
+#b{
+    margin-top:  -10px;
+    
+}
+#padding{
+    margin-top:  -100px;
+    padding: 5px;
+    
+}
+#content{
+    padding: 3px;
+    width: 200px;
+    height: 150px;
+    border: 2px dashed rgb(174, 84, 99);
+    margin-left: 40px;
+    margin-top: -150px;
+  
+}
+#m{
+    margin-top: 5px;
+    
+}
+#p{
+    margin: top 50px;
+    
+}
+#c{
+    margin: top 50px;
+    
+}

@@ -1,0 +1,32 @@
+*{margin:0;}
+#H1{
+    background-color:aqua;
+    padding: 30px;
+    font-size: 35px;
+    
+}
+nav{
+    
+    background-color:rgb(15, 15, 145);
+    padding: 80px;
+}
+a{
+    display: block;
+    text-decoration: none;
+    color:red;
+    font-size: 15px;
+}
+main{
+  
+    background-color:bisque;
+    padding: 150px;
+    text-align: center;
+}
+footer{
+    background-color:coral;
+    padding: 20px;
+    text-align: center;
+}
+div{
+    display: flex;
+}

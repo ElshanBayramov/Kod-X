@@ -1,0 +1,17 @@
+#first{
+    border: 5px solid green;
+    margin-top: 20px;
+    padding-bottom: 40px;
+}
+#second{
+    border: 7px solid yellow;
+    
+    padding-bottom: 60px;
+}
+p{
+    margin-top: 0px;
+}
+#text{
+    margin-top: 10px;
+    margin-left: 15px;
+}
