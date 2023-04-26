@@ -2,7 +2,9 @@
 HomeTasks
 <h1 align="center">Hi 👋, I'm ElshanBayramov</h1>
 <h3 align="center">A junior frontend developer from Azerbaijan</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2Fc1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9%2F68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966&tbnid=uYYa30tHbsaH2M&vet=12ahUKEwjw08vvt8j-AhV7vicCHTFFB-gQMygEegUIARD0AQ..i&imgrefurl=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&docid=CJdgcKdcN0j58M&w=800&h=600&q=coding%20gif%20for%20github&ved=2ahUKEwjw08vvt8j-AhV7vicCHTFFB-gQMygEegUIARD0AQ">
+
+
+<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fres.cloudinary.com%2Fpracticaldev%2Fimage%2Ffetch%2Fs--z5X0MXQA--%2Fc_limit%252Cf_auto%252Cfl_progressive%252Cq_66%252Cw_880%2Fhttps%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj8wo9f1mou6g5469671h.gif&tbnid=b9VgguM3loh76M&vet=12ahUKEwiw1fbJucj-AhXLrycCHTONB2oQMygBegQIARB8..i&imgrefurl=https%3A%2F%2Fdev.to%2Fmishmanners%2Fhow-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66&docid=mILBvU20FgoDgM&w=880&h=247&q=gif%20coding&hl=en-US&ved=2ahUKEwiw1fbJucj-AhXLrycCHTONB2oQMygBegQIARB8">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elshanbayramov&label=Profile%20views&color=0e75b6&style=flat" alt="elshanbayramov" /> </p>
 
 <p align="left"> <a href="https://twitter.com/b3lshan" target="blank"><img src="https://img.shields.io/twitter/follow/b3lshan?logo=twitter&style=for-the-badge" alt="b3lshan" /></a> </p>
