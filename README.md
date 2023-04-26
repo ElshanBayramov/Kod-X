@@ -4,7 +4,7 @@ HomeTasks
 <h3 align="center">A junior frontend developer from Azerbaijan</h3>
 
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fres.cloudinary.com%2Fpracticaldev%2Fimage%2Ffetch%2Fs--z5X0MXQA--%2Fc_limit%252Cf_auto%252Cfl_progressive%252Cq_66%252Cw_880%2Fhttps%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj8wo9f1mou6g5469671h.gif&tbnid=b9VgguM3loh76M&vet=12ahUKEwiw1fbJucj-AhXLrycCHTONB2oQMygBegQIARB8..i&imgrefurl=https%3A%2F%2Fdev.to%2Fmishmanners%2Fhow-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66&docid=mILBvU20FgoDgM&w=880&h=247&q=gif%20coding&hl=en-US&ved=2ahUKEwiw1fbJucj-AhXLrycCHTONB2oQMygBegQIARB8">
+<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fw0.peakpx.com%2Fwallpaper%2F1021%2F487%2FHD-wallpaper-technology-code-programming-programmer.jpg&tbnid=EuARYQmp2jvREM&vet=12ahUKEwj2zqOLusj-AhWBrycCHXlsCVsQMygiegUIARCrAg..i&imgrefurl=https%3A%2F%2Fwww.peakpx.com%2Fen%2Fhd-wallpaper-desktop-vlgcy&docid=QgKY-fvZhi6mDM&w=800&h=450&q=%20interesting%20coding%20wallpaper&hl=en-US&ved=2ahUKEwj2zqOLusj-AhWBrycCHXlsCVsQMygiegUIARCrAg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elshanbayramov&label=Profile%20views&color=0e75b6&style=flat" alt="elshanbayramov" /> </p>
 
 <p align="left"> <a href="https://twitter.com/b3lshan" target="blank"><img src="https://img.shields.io/twitter/follow/b3lshan?logo=twitter&style=for-the-badge" alt="b3lshan" /></a> </p>
