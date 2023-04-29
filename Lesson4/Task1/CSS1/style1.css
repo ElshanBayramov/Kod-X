@@ -1,0 +1,505 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Roboto:wght@100&display=swap');
+
+
+#main_page{
+    position: relative;
+width: 1853px;
+height: 1933px;
+
+background: #FFFFFF;
+}
+#basliq header{
+    padding-left: 766px;
+    padding-right: 781px;
+    padding-top: 34px;
+    position: absolute;
+    font-family: 'Lobster';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 49px;
+    line-height: 61px;
+    text-align: center;
+    
+    color: #109E97;
+}
+
+#cercive1{ 
+    box-sizing: border-box;
+
+  position: absolute;
+  width: 1822px;
+  height: 2px;
+  left: 8px;
+  top: 130px;
+
+  border: 1px solid #000000;
+  border-radius: 0px;
+}
+#David{
+padding-top:  152px;
+width: 504px;
+height: 27px
+position: absolute;
+color: #000000;
+matgin-left: 8px;
+top: 152px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 23px;
+line-height: 27px;
+}
+#oniki{
+    position: absolute; 
+width: 127px;
+height: 29px;
+padding-left: 8px;
+padding-top: 20px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 29px;
+
+color: rgb(74, 183, 74);
+}
+#onbes{
+    position: absolute; 
+width: 72px;
+height: 18px;
+padding-left: 135px;
+padding-top: 29px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+color:red;
+}
+#sekil1{
+    position: absolute;
+width: 200px;
+height: 302px;
+margin-left: 8px;
+margin-top: 114px;
+}
+#qara{
+    background-color: black;
+    position: absolute;
+    width: 1822px;
+    height: 256px;
+    margin-left: 8px;
+    margin-top: 420px;
+    
+}
+#qisa{
+    position: absolute;
+    width: 148px;
+    height: 23px;
+    padding-left: 890px;
+    padding-top: 25px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: right;
+    text-transform: uppercase;
+    
+    color: white;
+    
+   
+}
+#taninmis{
+    position: absolute;
+width: 1779px;
+height: 126px;
+padding-left: 51px;
+padding-top: 88px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+text-align: right;
+letter-spacing: 2px;
+
+color:white;
+}
+
+table,th{
+border:1px solid #000000;
+}
+table,td{
+    border:1px solid #000000;
+}
+table{
+    width: 1822px;
+height: 194px;
+left: 8px;
+top: 879px;
+}
+#xususiyyetler{
+    position: absolute;
+width: 138px;
+height: 19px;
+margin-left: 8px;
+margin-top:  707px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+}
+#cedvel{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 1822px;
+    height: 194px;
+    margin-left: 8px;
+    margin-top: 74px;
+    
+    border: 1px solid #808080;
+    border-radius: 0px;
+}
+#cercive2{ 
+    box-sizing: border-box;
+
+position: absolute;
+width: 1822px;
+height: 2px;
+margin-left: 8px;
+margin-top: 985px;
+
+border: 1px solid #000000;
+border-radius: 0px;
+}
+#cercive3{
+    box-sizing: border-box;
+
+position: absolute;
+width: 1822px;
+height: 2px;
+margin-left: 8px;
+margin-top: 1697px;
+
+border: 1px solid #000000;
+border-radius: 0px;
+}
+#sekil2{
+    position: absolute;
+width: 300px;
+height: 478px;
+margin-left: 8px;
+margin-top: 1053px;
+
+
+background: url(.jpg);
+border-radius: 0px;
+}
+#sebeke{
+    position: absolute;
+width: 59px;
+height: 16px;
+margin-left: 48px;
+margin-top: 1565px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+
+color: #0000EE;
+}
+#p1{
+
+    position: absolute;
+    width: 121px;
+    height: 28px;
+    padding-left: 859px;
+    padding-top: 1007px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    text-transform: uppercase;
+    
+    color: #000000;
+
+}
+#p2{
+    position: absolute;
+    width: 76px;
+    height: 16px;
+    padding-left: 881px;
+    padding-top: 1053px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    
+    color: #000000;
+}
+#label1{
+    box-sizing: border-box;
+
+position: absolute;
+width: 185px;
+height: 21px;
+margin-left: 827px;
+margin-top: 1083px;
+
+background: #FFFFFF;
+border: 2px solid #767676;
+border-radius: 0px;
+}
+#p3{
+    position: absolute;
+width: 172px;
+height: 16px;
+margin-left: 821px;
+margin-top: 1112px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+text-align: center;
+
+color: #000000;
+}
+#radio1{
+    box-sizing: border-box;
+
+position: absolute;
+width: 154px;
+height: 24px;
+margin-left: 960px;
+margin-top: 1112px;
+
+background: #FFFFFF;
+border: 2px solid #767676;
+border-radius: 0px;
+}
+#radio2{
+    box-sizing: border-box;
+
+position: absolute;
+width: 154px;
+height: 24px;
+margin-left: 1050px;
+margin-top: 1112px;
+
+background: #FFFFFF;
+border: 2px solid #767676;
+border-radius: 0px;
+}
+#p31{
+    position: absolute;
+    width: 172px;
+    height: 16px;
+    margin-left: 919px;
+    margin-top: 1112px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    
+    color: #000000;
+}
+#p32{
+    position: absolute;
+    width: 172px;
+    height: 16px;
+    margin-left: 999px;
+    margin-top: 1112px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    
+    color: #000000;
+}
+#p4{
+    position: absolute;
+width: 166px;
+height: 16px;
+margin-left: 787px;
+margin-top: 1150px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+text-align: center;
+
+color: #000000;
+
+}
+#vaxt{ position: absolute;
+    width: 166px;
+    height: 16px;
+    margin-left: 950px;
+    margin-top: 1150px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    
+    color: #000000;
+
+}
+#p5{
+    position: absolute;
+width: 166px;
+height: 16px;
+margin-left: 787px;
+margin-top: 1190px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+text-align: center;
+
+color: #000000;
+
+}
+#secim{
+    position: absolute;
+    width: 166px;
+    height: 16px;
+    margin-left: 890px;
+    margin-top: 1190px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+}
+#p6{
+    position: absolute;
+width: 109px;
+height: 18px;
+margin-left: 796px;
+margin-top: 1231px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+
+
+text-align: center;
+
+color: #000000;
+}
+#p7{
+    position: absolute;
+width: 58px;
+height: 18px;
+margin-left: 890px;
+margin-top: 1267px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+
+text-align: center;
+
+color: #000000;
+}
+#serh{
+    box-sizing: border-box;
+
+position: absolute;
+width: 261px;
+height: 156px;
+margin-left: 789px;
+margin-top: 1285px;
+
+background: #FFFFFF;
+border: 1px solid #767676;
+border-radius: 0px;
+}
+#butn{
+    box-sizing: border-box;
+
+position: absolute;
+width: 120px;
+height: 50px;
+margin-left: 859px;
+margin-top: 1463px;
+
+background: #109E97;
+border: 2px solid #767676;
+border-radius: 0px;
+}
+#sekil3{
+    position: absolute;
+width: 300px;
+height: 496px;
+margin-left: 1529px;
+margin-top: 1053px;
+}
+#bitis{
+    margin-left: 8px;
+    margin-right: 23px;
+   margin-top: 1723px;
+   margin
+width: 1822px;
+height: 86px;
+
+
+
+background: #109E97;
+
+}
+#pson{
+    
+    position: absolute;
+    width: 193px;
+    height: 16px;
+    margin-left: 822px;
+    margin-top: 42px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    
+    color: white;
+}
