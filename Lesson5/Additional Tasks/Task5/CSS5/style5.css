@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Sigmar&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+
+}
+#main_page{
+    height: 500px;
+    width: 500px;
+    background-color:white;
+}
+div{
+    font: 18 Sigmar;
+    font: 18px ;
+}
+#fixed{
+    top: 0;
+    position: fixed;
+    text-align: center;
+   width:500px ;
+   height: 40px;
+    background-color:skyblue;
+}
+#H1{
+    padding-top: 50px;
+    font: 28 ;
+}
+
+#relative{
+    position: relative;
+    text-align: center;
+    margin-top: 50px;
+   width:500px ;
+   height: 30px;
+    background-color:rgb(89, 174, 127);
+}
+#absolute{
+    position: absolute;
+    text-align: center;
+    margin-top: -50px;
+    margin-left: 380px ;
+   width:100px ;
+   height: 70px;
+    background-color:rgb(206, 168, 96);
+}
+#static{
+    position: static;
+    text-align: center;
+    margin-top: 50px;
+   width:500px ;
+   height: 30px;
+    background-color:rgb(165, 139, 123);
+}

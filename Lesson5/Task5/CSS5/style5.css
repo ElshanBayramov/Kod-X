@@ -1,0 +1,110 @@
+.first{
+    text-align: center;
+    font: 13px arial;
+    position:absolute;
+    width: 100px;
+    height: 100px;
+    background-color:#ad74ad;
+}
+p{
+    text-align: center;
+    font: 15px arial;
+    padding: 25px 10px;
+}
+.first_bckrnd{
+    position: absolute;
+    margin: 50px 150px;
+    width: 360px;
+    height: 100px;
+    background-color:skyblue;
+}
+#one_one{
+    text-align: center;
+    font: 15px arial;
+    position:absolute;
+    width: 100px;
+    height: 100px;
+    margin-left: 10px;
+    background-color:rgb(245, 173, 38);
+}
+
+    #one_two{
+        text-align: center;
+        font: 15px arial;
+        position:absolute;
+        width: 100px;
+        height: 100px;
+        margin-left: 120px;
+        margin-top: -15px;
+        background-color:rgb(73, 73, 223);
+    }
+    #one_three{
+        text-align: center;
+        font: 15px arial;
+        position:absolute;
+        width: 100px;
+        height: 100px;
+        margin-left: 240px;
+        background-color:rgb(245, 173, 38);}
+    
+.second_bckrnd{
+    position: absolute;
+    margin: 200px 150px;
+    width: 360px;
+    height: 100px;
+    background-color:skyblue;
+}
+#two_one{
+    text-align: center;
+    font: 15px arial;
+    position:absolute;
+    width: 100px;
+    height: 100px;
+    margin-left: 30px;
+    background-color:rgb(245, 173, 38);
+}
+
+    #two_two{
+        text-align: center;
+        font: 15px arial;
+        position:absolute;
+        width: 100px;
+        height: 100px;
+        margin-left: 230px;
+        background-color:rgb(245, 173, 38);
+    }
+    .third_bcrnd{
+        position: absolute;
+        margin: 350px 150px;
+        width: 360px;
+        height: 100px;
+        background-color:skyblue;
+    }
+    #three_one{
+        text-align: center;
+        font: 15px arial;
+        position:absolute;
+        width: 100px;
+        height: 100px;
+        margin-left: 10px;
+        background-color:rgb(245, 173, 38);
+    }
+    
+        #three_two{
+            text-align: center;
+            font: 15px arial;
+            position:absolute;
+            width: 100px;
+            height: 100px;
+            margin-left: 120px;
+         
+            background-color:rgb(220, 96, 96);
+        }
+        #three_three{
+            text-align: center;
+            font: 15px arial;
+            position:absolute;
+            width: 100px;
+            height: 100px;
+            margin-left: 240px;
+            background-color:rgb(245, 173, 38);}

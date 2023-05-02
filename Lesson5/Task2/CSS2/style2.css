@@ -1,0 +1,33 @@
+.container{
+    width: 400px;
+    height: 530px;
+    border: 2px solid red;
+    margin: 140px auto;
+}
+div{
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    margin: 20px 20px;border-radius: 10px;
+}
+.box-1{
+    background-color:rgb(145, 221, 250);
+    position: relative;
+     margin-left: -20px; 
+    
+   
+}
+.box-2{
+   
+    background-color:cornflowerblue;
+  
+}
+.box-3{
+    background-color:rgb(128, 50, 50);
+   ;
+}
+    
+.box-4{
+    background-color:rgba(88, 12, 209, 0.641)
+  
+}

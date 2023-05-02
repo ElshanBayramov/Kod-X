@@ -1,0 +1,19 @@
+.container{
+    margin: 100px auto;
+    width: 400px;
+    height: 250px;
+    border:5px solid rgba(200, 196, 196, 0.958)
+}
+div{
+   
+    width: 100px;
+    height: 100px;
+    color: white;
+    background-color:rgb(123, 23, 123);
+    position: absolute;
+    margin:-228px 300px;
+    border-radius:4px; 
+}
+#p1{
+ padding: 1px 13px;
+}

@@ -1,0 +1,23 @@
+#Outter{
+    border: 4px solid rgb(28, 26, 26);
+    width: 500px;
+    height: 250px;
+    font: 16px Times New Roman;
+}
+#Inner{
+    color: red;
+    border: 3px solid rgb(212, 9, 9);
+    width: 250px;
+    font: 16px Times New Roman;
+    height: 150px;
+}
+#Position_Absolute{
+    border: 3px solid pink;
+    width: 150px;
+    height: 250px;
+    position:absolute ;
+    color:blue;
+    font: 16px Times New Roman;
+    margin: 16px 0px;
+
+}

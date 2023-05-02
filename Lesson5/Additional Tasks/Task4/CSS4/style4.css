@@ -1,0 +1,32 @@
+#main_page{
+    margin: 100px 100px; 
+    position: absolute;
+    width: 400px;
+    height: 331px;
+
+background: #FFFFFF;
+}
+#div1{
+    position:absolute;
+    width:400px ;
+    height: 300px;
+    border:2px solid rgb(190, 124, 190);
+}
+#p1{
+    text-align: center;
+    color: rgb(190, 124, 190);
+    font: 20px arial, helvetica;
+}
+#div2{
+    position: relative;
+     margin: top 78px;
+     margin-left: 210px; 
+    width:150px ;
+    height: 150px;
+    border:2px solid rgb(46, 222, 46);
+}
+#p2{
+    text-align: center;
+    color: rgb(46, 222, 46);
+    font: 20px arial, helvetica;
+}

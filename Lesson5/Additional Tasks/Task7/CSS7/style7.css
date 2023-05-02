@@ -1,0 +1,50 @@
+#main_page{
+    position: relative;
+    margin: 0 auto;
+    height: 500px;
+    width: 250px;
+    background-color:white;
+    border: 2px solid black;
+}
+#yellow1{
+    position: relative;
+    background-color:yellow;
+    left: 50px;
+    top: 100px;
+    width:900px ;
+    height: 50px;
+
+}
+#yellow2{
+    position: relative;
+    background-color:yellow;
+    right: 900px;
+    top: 0px;
+    width:900px ;
+    height: 50px;
+
+}
+
+#blue{
+    position: relative;
+    background-color:rgb(55, 150, 190);
+    margin-top: 324px;
+    width:250px ;
+    height: 50px;
+}
+#purple{
+    position: relative;
+    background-color:rgb(187, 21, 187);
+    margin-top: -375px;
+    margin-left: 100px;
+    width:50px ;
+    height: 500px;
+}
+#black{
+    position: relative;
+    background-color:black;
+    margin-top: -400px;
+     margin-left: 100px; 
+    width:150px ;
+    height: 50px;
+}

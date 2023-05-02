@@ -1,0 +1,39 @@
+#main_page{
+    width: 300px;
+    height: 300px;
+    background-color:white;
+}
+div{
+    width: 150px;
+    height: 150px;
+}
+#red{
+    position: relative;
+    background-color:red;
+
+}
+#pink{
+    margin-top: -50px;
+    margin-left: 50px;
+    position: relative;
+    background-color:pink;
+
+}
+#yellow{
+    background-color:yellow;
+    position: relative;
+    margin-top: -100px;
+    margin-left: 150px;
+}
+#green{
+    background-color:green;
+    position: relative;
+    margin-top: -250px;
+    margin-left: 200px;
+}
+#blue{
+    background-color:rgb(27, 131, 173);
+    position: relative;
+    margin-top: -100px;
+    margin-left: 250px;
+}
