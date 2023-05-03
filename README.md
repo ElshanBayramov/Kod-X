@@ -1,5 +1,5 @@
-# Kod-X
-HomeTasks
+# Kod<!x
+<b>HomeTasks</b>
 <h1 align="center">Hi 👋, I'm ElshanBayramov</h1>
 <h3 align="center">A junior frontend developer from Azerbaijan</h3>
 
