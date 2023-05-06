@@ -1,9 +1,6 @@
 # Kod<!x
 <b>HomeTasks</b>
 <h1 align="center">Hi 👋, I'm ElshanBayramov</h1>
-<h3 align="center">A junior frontend developer from Azerbaijan</h3>
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elshanbayramov&label=Profile%20views&color=0e75b6&style=flat" alt="elshanbayramov" /> </p>
 <h3 align="left">Connect with me:</h3>
