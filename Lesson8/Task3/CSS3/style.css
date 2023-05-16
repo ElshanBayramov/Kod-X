@@ -1,0 +1,20 @@
+.box1{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+.box2{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+.container:hover>div{
+    width:50%;
+}
+.box1{
+    transition: width 3s ease-in-out;
+}
+.box2{
+  
+    transition: width 3s 3s ease-in-out;
+}

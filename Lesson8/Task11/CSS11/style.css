@@ -1,0 +1,52 @@
+.box1{
+    background-color: rgb(185, 178, 178);
+    width: 400px;
+    height: 402px;
+    position: relative;
+
+}
+.box2{
+    background-color:blue;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+}
+.box1:hover  .box2{
+animation-name: hoverBox;
+animation-duration: 8s;
+animation-timing-function: linear;
+animation-iteration-count: infinite;
+}
+@keyframes hoverBox {
+    0%{
+        top:2px;
+        left:0px;
+        background-color:blue;
+    border-radius: 50%;
+    }
+    25%{
+        top:12px;
+        left:290px;
+        background-color:red;
+    border-radius: 0px;
+    }
+    50%{
+        top:292px;
+        left:290px;
+        background-color:green;
+    border-radius: 50%;
+    }
+    75%{
+        top:292px;
+        left:10px;
+        background-color:orange;
+    border-radius:0px;
+    }
+    100%{
+        top:12px;
+        left:10px;
+        background-color:blue;
+    border-radius: 50%;
+    }
+}

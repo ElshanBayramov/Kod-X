@@ -1,0 +1,13 @@
+div{
+    width: 270px;
+    height: 220px;
+    background-color:blue;
+    border-radius: 10px;
+   padding: 10px 20px; 
+   color:white;
+}
+main:hover>div{
+    background-color: rgb(205, 169, 241);
+    border-radius: 0px;
+    color:black;
+}

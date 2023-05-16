@@ -1,0 +1,15 @@
+h1{
+    color:rgb(23, 165, 23);
+}
+button {
+    margin-left: 20px;
+    font: 27px "Helvetica Neue",Helvetica;
+  
+    background-color: white;
+    
+}
+main:hover>button{
+    border-color:rgb(23, 165, 23); 
+    color:rgb(23, 165, 23);
+    transform: skewX(10deg);
+}

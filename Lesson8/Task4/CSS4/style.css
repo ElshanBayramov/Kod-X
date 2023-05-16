@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+#p1{
+    margin: 10px;
+}
+h1{
+    margin-top: 200px;
+    margin-left: 270px;
+    position: relative;
+}
+.box1{
+    width: 150px;
+    height: 150px;
+    background-color: red;
+  position: absolute;
+  top: 110px;
+  left: 150px;
+}
+.box2{
+width: 150px;
+height: 150px;
+background-color: yellow;
+position: absolute;
+top: 110px;
+left:300px
+}
+.box3{
+width: 150px;
+height: 150px;
+background-color: blue;
+position: absolute;
+top: 260px;
+left:150px ;
+}
+.box4{
+width: 150px;
+height: 150px;
+background-color: green;
+position: absolute;
+top: 260px;
+left: 300px;
+}
+.main:hover .box1{
+    cursor: pointer;
+    animation-name:hover1 ;
+    animation-duration: 1s;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode:backwards ;
+    animation-iteration-count: 2;
+    animation-direction: alternate;
+
+}
+.main:hover .box2{
+    cursor: pointer;
+    animation-name:hover2 ;
+    animation-duration: 1s;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode:backwards ;
+    animation-iteration-count: 2;
+    animation-direction: alternate;
+
+}
+.main:hover .box3{
+    cursor: pointer;
+    animation-name:hover3 ;
+    animation-duration: 1s;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode:backwards ;
+    animation-iteration-count: 2;
+    animation-direction: alternate;
+
+}
+.main:hover .box4{
+    cursor: pointer;
+    animation-name:hover4 ;
+    animation-duration: 1s;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode:backwards ;
+    animation-iteration-count: 2;
+    animation-direction: alternate;
+
+}
+@keyframes hover1 {
+   from{
+          transform: rotate(0deg);
+   }
+   to{
+transform: rotate(90deg);
+transform-origin:top left  ;
+   } 
+}
+@keyframes hover2 {
+   from{
+          transform: rotate(0deg);
+   }
+   to{
+transform: rotate(-90deg);
+transform-origin:top right  ;
+   } 
+}
+@keyframes hover3 {
+   from{
+          transform: rotate(0deg);
+   }
+   to{
+transform: rotate(-90deg);
+transform-origin:bottom left  ;
+   } 
+}
+@keyframes hover4 {
+   from{
+          transform: rotate(0deg);
+   }
+   to{
+transform: rotate(90deg);
+transform-origin: bottom right  ;
+   } 
+}
+.p2 {
+    margin-top: 150px;
+}

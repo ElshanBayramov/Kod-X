@@ -1,0 +1,54 @@
+#main_page{
+    width: 50%;
+    height: 80vh;
+    display: flex;
+    flex-wrap: wrap;
+}
+#red{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: 150px;
+    background-color: red;
+   transition-duration: 10000ms;
+   transition-delay: 3s;
+   transition-timing-function:linear;
+}
+#green{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    transition-duration:7000ms;
+
+}
+#blue{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 70px;
+    height: 70px;
+    background-color: blue;
+    transition-duration:5000ms;
+}
+#boxs{
+    cursor:pointer; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#red:hover{
+
+    transform:rotate(360deg);
+}
+#green:hover{
+    transform:rotate(360deg);
+    
+}
+#blue:hover{
+    transform:rotate(360deg);
+   
+}

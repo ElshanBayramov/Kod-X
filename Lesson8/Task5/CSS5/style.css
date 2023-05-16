@@ -1,0 +1,92 @@
+h1{
+    color: green;
+}
+p{
+    font-weight: bold;
+}
+main{
+    width: 50%;
+    height: 50vh;
+    position: relative;
+    
+}
+.normal{
+    width: 135px;
+    height: 10px;
+    position: absolute;
+    animation-name: Box1;
+    animation-duration: 2s;
+    animation-timing-function: ease-out;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+}
+@keyframes Box1{
+    0%{
+        top: 70px;
+        left: calc(50%);
+    }
+    100%{
+        top: 70px;
+        left: 0;
+    }
+}
+.reverse{
+    width: 135px;
+    height: 10px;
+    position: absolute;
+    animation-name: Box2;
+    animation-duration: 2s;
+    animation-timing-function: ease-out;
+    animation-iteration-count: infinite;
+    animation-direction: reverse;
+}
+@keyframes Box2{
+    0%{
+        top: 90px;
+        left: calc(50%);
+    }
+    100%{
+        top: 90px;
+        left: 0;
+    }
+}
+.alternate{
+    width: 145px;
+    height: 10px;
+    position: absolute;
+    animation-name: Box3;
+    animation-duration: 2s;
+    animation-timing-function: ease-out;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+@keyframes Box3{
+    0%{
+        top: 110px;
+        left: calc(50%);
+    }
+    100%{
+        top: 110px;
+        left: 0;
+    }
+}
+.alternatereverse{
+    width: 200px;
+    height: 10px;
+    position: absolute;
+    animation-name: Box4;
+    animation-duration: 2s;
+    animation-timing-function: ease-out;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+@keyframes Box4{
+    0%{
+        top: 130px;
+        left: calc(50%);
+    }
+    100%{
+        top: 130px;
+        left: 0;
+    }
+}

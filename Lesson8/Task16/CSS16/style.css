@@ -1,0 +1,173 @@
+*{
+    padding: 0;
+}
+body{
+    background-color:rgb(227, 216, 216);
+}
+header{
+    height: 50px;
+    background-color: dodgerblue;
+    padding: 0px;
+    width: 500px;
+    margin: 0 auto;
+    border-radius: 10px;
+    border-radius: 10px;
+    border-radius: 10px;
+    border-radius: 10px;
+    border-radius: 10px;
+}
+
+#main{
+    list-style: none;
+    display: flex;
+    position: relative;
+}
+li{
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 100px;
+    background-color: dodgerblue;
+}
+#first{
+    border-radius: 10px 0 0 0;
+    border-radius: 10px 0 0 0;
+    border-radius: 10px 0 0 0;
+    border-radius: 10px 0 0 0;
+    border-radius: 10px 0 0 0;
+}
+#first:hover {
+    position: relative;
+    background-color: rgb(29, 81, 133);
+}
+#first ul{
+    display: none;
+    position: absolute;
+    left: 0;
+    top: 50px;
+}
+#first:hover ul {
+    display: block;
+}
+#first:hover li{
+    animation-name: first ;
+    animation-duration: 500ms;
+    animation-delay: calc(0.1s*var(--i));
+}
+@keyframes first  {
+    to{
+        transform: rotateX(360deg);
+        transform: rotateX(360deg);
+        transform: rotateX(360deg);
+        transform: rotateX(360deg);
+        transform: rotateX(360deg);
+}
+}
+#second:hover{
+    position: relative;
+    background-color: rgb(29, 81, 133);
+}
+#second ul{
+    position: absolute;
+    display: none;
+    left: 0;
+    top: 50px;
+}
+#second:hover ul{
+    display: block;
+}
+#second:hover li{
+    animation-name:second;
+    animation-duration: 500ms;
+    animation-delay: calc(0.1s*var(--i));
+}
+@keyframes second {
+    from{
+        transform-origin: top center;
+        
+        transform: scale(1.5);
+        transform: translateY(-10px);
+        transform: scale(1.5);
+        transform: scale(1.5);
+        transform: scale(1.5);
+        transform: scale(1.5);
+}
+}
+#third:hover{
+    position: relative;
+    background-color: rgb(29, 81, 133);
+}
+#third ul{
+    position: absolute;
+    display: none;
+    left: 0;
+    top: 50px;
+}
+#third:hover ul{
+    display: block;
+}
+#third:hover li{
+    animation-name:third;
+    animation-duration: 500ms;
+    animation-delay: calc(0.1s*var(--i));
+}
+@keyframes third {
+    from{
+        transform-origin: top center;
+        
+        transform: scale(1.5);
+        transform: translateY(-10px);
+        transform: scale(1.5);
+        transform: scale(1.5);
+        transform: scale(1.5);
+        transform: scale(1.5);
+}
+}
+#fourth:hover{
+    position: relative;
+    background-color: rgb(29, 81, 133);
+}
+#fourth ul{
+    display: none;
+    position: absolute;
+    left: 0;
+    top: 50px;
+}
+#fourth:hover ul{
+    display: block;
+}
+#fourth:hover ul li{
+    animation-name: first;
+    animation-duration: 500ms;
+    animation-delay: calc(0.1s*var(--i));
+}
+#fifth:hover{
+    position: relative;
+    background-color: rgb(29, 81, 133);
+}
+#fifth{
+    border-radius: 0 10% 0 0;
+    -webkit-border-radius: 0 10% 0 0;
+    -moz-border-radius: 0 10% 0 0;
+    -ms-border-radius: 0 10% 0 0;
+    -o-border-radius: 0 10% 0 0;
+}
+#fifth ul{
+    position: absolute;
+    display: none;
+    left: 0;
+    top: 50px;
+}
+#fifth:hover ul{
+    display: block;
+}
+#fifth:hover ul li{
+    animation-name: first;
+    animation-duration: 500ms;
+    animation-delay: calc(0.1s*var(--i));
+}
+.nav-list > li:hover >ul{
+    display: block;
+}

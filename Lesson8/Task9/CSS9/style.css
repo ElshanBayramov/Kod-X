@@ -1,0 +1,49 @@
+h1{
+    color: rgb(18, 164, 18);
+}
+h3{
+    color: rgb(18, 164, 18);
+}
+div{
+    width: 100px;
+    height: 100px;
+    background-color:rgb(15, 15, 87);
+    background-color: blue; 
+    display: flex;
+    justify-content: center;  
+    align-items: center;
+}
+.box1{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.box2{
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.box3{
+    margin-top: 50px;
+    margin-left: 20px;
+}
+main{
+   
+    display: flex;
+    justify-content: center;  
+    align-items: center;  
+ 
+}
+main:hover > .box1{
+    background-color: blue; 
+    transition: 2s ease-in-out;
+transform: rotate(180deg);
+}
+main:hover > .box2{
+    background-color: blue; 
+    transition: 2s ease-in-out;
+transform: rotate(180deg);
+}
+main:hover > .box3{
+    background-color: blue; 
+    transition: 2s ease-in-out;
+transform: rotate(180deg);
+}

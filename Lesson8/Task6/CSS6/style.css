@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1 {
+    color: green;
+    margin: 10px;
+    font-size: 40px;
+}
+#p {
+    font-weight: bold;
+    margin: 10px;
+    font-size: 20px;
+}
+div {
+    display: flex;
+    font-size: 20px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    align-items: baseline;
+}
+.p {
+    animation-name: loading;
+    animation-duration: 0.5s;
+    animation-delay: calc(0.5s * var(--i) + 0.5s);
+    animation-fill-mode: forwards;
+}
+@keyframes loading {
+    from {
+        color: black;
+        font-size: 20px;
+    }
+    to {
+        color: green;
+        font-size: 40px;
+    }
+}

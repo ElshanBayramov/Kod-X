@@ -1,0 +1,27 @@
+
+.box1{
+    margin-top: 50px;
+    margin-left: 30px;
+    position: absolute;
+    animation-name: hoverBox;
+    animation-duration: 1s;
+    animation-timing-function:ease;
+    animation-iteration-count: infinite;
+    width: 100px;
+    height: 100px;
+    background-color:red;
+}
+@keyframes hoverBox{
+    0%{
+        background-color:blue;
+    }
+    25%{
+        background-color:red;
+    }
+    50%{
+        background-color:green;
+    }
+    75%{
+        background-color:yellow;
+    }
+}
